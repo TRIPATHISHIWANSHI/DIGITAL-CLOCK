@@ -1,0 +1,11 @@
+*{
+  background:url("https://images.hdqwalls.com/wallpapers/time-clock-digital-creative-illustration-2d.jpg");
+  position: relative;
+}
+#time{
+  color:powderblue;
+  display: block;
+  border-radius: 4px white;
+  border-radius: 10px;
+  font-size: 300px;
+}
